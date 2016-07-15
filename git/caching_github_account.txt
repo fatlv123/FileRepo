@@ -1,0 +1,3 @@
+After typing username and password, type in:
+
+git config --global credential.helper wincred
